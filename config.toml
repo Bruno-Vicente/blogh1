@@ -54,11 +54,11 @@ pygmentsCodefencesGuessSyntax = true
 #  bitbucket = "username"
 #  twitter = "username"
 #  reddit = "username"
-  linkedin = "bruno-v-7a2555121"
+  linkedin = "bruno-vicente-silva"
 #  xing = "username"
 #  stackoverflow = "users/XXXXXXX/username"
 #  snapchat = "username"
-  instagram = "brunovice_"
+  instagram = "brun0id_"
 #  youtube = "user/username" # or channel/channelname
 #  soundcloud = "username"
   spotify = "b62gnumxxis358hbf3ndym3d6"
@@ -80,7 +80,7 @@ pygmentsCodefencesGuessSyntax = true
     weight = 1
 
 [[menu.main]]
-    name = "About"
+    name = "Sobre o autor"
     url = "page/about/"
     weight = 3
 
