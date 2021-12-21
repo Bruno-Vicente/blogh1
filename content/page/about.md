@@ -1,10 +1,10 @@
 ---
 comments: false
 subtitle: Why you'd want to go on a date with me
-title: About me
+title: Sobre o autor
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Olá, meu nome é Bruno Vicente.
 
 - I rock a great mustache
 - I'm extremely loyal to my family
