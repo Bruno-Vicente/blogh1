@@ -1,16 +1,13 @@
 ---
 comments: false
-subtitle: Why you'd want to go on a date with me
+subtitle: Afinal estes textos não foram escritos por uma Inteligência Artificial (ou foram?)
 title: Sobre o autor
 ---
 
-Olá, meu nome é Bruno Vicente.
+Olá, meu nome é Bruno, estudante de economia e apaixonado por ciência de dados, aqui você vai encontrar excertos de trabalhos que desenvolvo e solilóquios que escrevo quando encontro algum tempo.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+Quaisquer opiniões aqui expressas são opiniões do autor e não representam a visão de centros acadêmicos, de pesquisa ou autoridades monetárias.
 
-### my history
+### Mais sobre eu?
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
