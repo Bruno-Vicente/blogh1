@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Para quem rejeita a Hipótese Nula"
+  subtitle = "Para quem rejeita a Hipótese Nula."
   mainSections = ["post","posts"]
   logo = "logo1.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -45,7 +45,7 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Bruno Vicaaaaaaaente"
+  name = "Bruno Vicente"
 #  website = "yourwebsite.com"
 #  email = "youremail@domain.com"
 #  facebook = "username"
